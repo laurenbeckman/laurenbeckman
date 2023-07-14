@@ -4,8 +4,6 @@ I’m currently pursuing a B.S. Chemical Engineering with a focus in clean energ
 
 My interest is in dovetailing STEM with humanities by intertwining my passions in Chemical Engineering, Economics and Finance, and Intellectual Property Law. 
 
-My goal is to utilize my broad-scoping background to help develop and protect nuanced, informed, and inclusive clean energy solutions, locally and globally.
-
 Although I'm not pursuing CompSci, I would like to gain background knowledge on the subject. With any luck, maybe I'll start a side project or two!
 
 <!---
